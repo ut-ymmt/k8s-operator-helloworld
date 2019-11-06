@@ -1,0 +1,3 @@
+version: "2"
+domain: hello.varlog.dev
+repo: github.com/ut-ymmt/k8s-operator-helloworld
